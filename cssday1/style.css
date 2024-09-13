@@ -1,4 +1,11 @@
-.alert{
-    text-align: center;
-    color: red;
+
+h1{
+    font-size: 2rem;
+}
+
+div{
+    background-color: lightgray;
+}
+p{
+    color: blue;
 }
