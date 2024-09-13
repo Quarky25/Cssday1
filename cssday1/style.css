@@ -9,3 +9,17 @@ div{
 p{
     color: blue;
 }
+
+#main-heading{
+    text-align: center;
+    font-size: large;
+    background-color: blue;
+    color: red;
+}
+
+.highlight{
+    text-align: center;
+    color: blanchedalmond;
+    display: inline-block;
+    padding: .25em 0;
+}
