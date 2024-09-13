@@ -1,13 +1,17 @@
 
 h1{
     font-size: 2rem;
+    text-align: center;
+    color: blueviolet;
 }
 
 div{
     background-color: lightgray;
+    text-align: center;
 }
 p{
     color: blue;
+    text-align: center;
 }
 
 #main-heading{
@@ -15,6 +19,7 @@ p{
     font-size: large;
     background-color: blue;
     color: red;
+    font-size: medium;
 }
 
 .highlight{
